@@ -1,6 +1,8 @@
 # Internet-hw2
 
-OX棋網路程式\n\t這是一對client--server的OX棋下棋程式，具有下列幾個特性：
+OX棋網路程式
+
+這是一對client--server的OX棋下棋程式，具有下列幾個特性：
 
 1. 允許至少2個client同時登錄至server。
 
